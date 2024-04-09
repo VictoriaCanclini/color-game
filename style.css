@@ -1,0 +1,52 @@
+body {
+    background-color: black
+
+}
+
+.square {
+    float: left;
+    width: 30%;
+    height: 0;
+    padding-bottom: 30%;
+    background-color: burlywood;
+    margin: 5px;
+    
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: rgb(248, 205, 212);
+    text-align: center;
+}
+
+#message {
+    color: black;
+
+}
+
+#stripe {
+    background-color: rgb(248, 205, 212);
+    height: 30px;
+    text-align: center;
+}
+
+.selected {
+    background-color: rgb(231, 25, 77);
+}
+
+#reset{
+    border-radius: 5px;
+    background-color: white;
+}
+
+.botones{
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+
